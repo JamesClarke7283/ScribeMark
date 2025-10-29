@@ -22,10 +22,8 @@ classifiers = [
 dependencies = [
     "python-dotenv",
     "coloredlogs",
-    "quart[dotenv]",
-    "hypercorn",
-    "appdirs",
-    "watchfiles"
+    "customtkinter",
+    "appdirs"
 ]
 
 [project.optional-dependencies]

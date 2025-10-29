@@ -37,19 +37,14 @@ pip install -e .
 
 ### Running the Application
 
-#### Option 1: Using the run script
-```bash
-python run.py
-```
-
-#### Option 2: Using the module
+#### Option 1: Using the module
 ```bash
 python -m src.app
 ```
 
-#### Option 3: After installation
+#### Option 2: After installation
 ```bash
-quarttailwind
+scribemark
 ```
 
 ## Usage
